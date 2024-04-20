@@ -1247,26 +1247,24 @@ Modules - reusable parts of our design
 }
 
 #bwbug {
-animation: 0.5s fadeInUp;
+animation: 1s fadeInUp;
 }
 
 .bodytext {
-animation: 0.5s fadeInUp;
-animation-delay: 0.5s;
+animation: 1s fadeInUp;
+animation-delay: 1.2s;
 }
 
 .formloader {
-animation: 0.5s fadeInUp;
-animation-delay: 1s;
+animation: 1s fadeInUp;
+animation-delay: 2.4s;
 }
 
 @keyframes fadeInUp {
   0% {
-    transform: translateY(100%);
     opacity: 0;
   }
   100% {
-    transform: translateY(0%);
     opacity: 1;
   }
 }
