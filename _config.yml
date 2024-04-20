@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Bug Studios
+name: BUG Studios
 
 # Name of the author
-author: Bug Studios
+author: BUG Studios
 
 # Short bio or description (displayed in the header)
 description: San Diego based Recording, Mix, and Master services.
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: contact@bugstudios.media
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
-  instagram:
+  github: 
+  instagram: bug.studios
   linkedin: 
   pinterest:
-  rss: rss
-  twitter: amit_merchant
+  rss: 
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,15 +41,15 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: https://www.bugstudios.media
+enforce_ssl: https://www.bugstudios.media
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
